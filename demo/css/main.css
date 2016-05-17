@@ -1,1 +1,138 @@
+body {
+    background-color: white;
+}
 
+.mirror {
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+}
+
+.mapbox {
+    position: relative;
+    width:99%;
+    margin-left: .2%;
+}
+
+
+.arrow {
+
+}
+
+.half-arrow {
+
+}
+
+.row-1 {
+  position:absolute;
+  top: 0;
+}
+
+.row-2 {
+  position:absolute;
+  padding-top: 15.75%;
+}
+
+.row-3 {
+  position:absolute;
+  padding-top: 31.5%;
+}
+
+.col-1 {
+	position: absolute;
+  width:9%;
+	left: 0;
+
+
+	}
+
+.col-2 {
+  position:absolute;
+  width:18%;
+  left:0.15%;
+
+
+}
+
+.col-3 {
+  position:absolute;
+  width:18%;
+  left:9.3%;
+
+
+}
+
+.col-4 {
+  position:absolute;
+  width:18%;
+  left:18.45%;
+
+
+}
+
+.col-5 {
+  position:absolute;
+  width:18%;
+  left:27.6%;
+
+
+}
+
+.col-6 {
+  position:absolute;
+  width:18%;
+  left:36.75%;
+
+
+}
+
+.col-7 {
+  position:absolute;
+  width:18%;
+  left:45.9%;
+
+
+}
+
+.col-8 {
+  position:absolute;
+  width:18%;
+  left:55.05%;
+
+
+}
+
+.col-9 {
+  position:absolute;
+  width:18%;
+  left:64.2%;
+
+
+}
+
+.col-10 {
+  position:absolute;
+  width:18%;
+  left:73.35%;
+
+
+}
+
+.col-11 {
+  position:absolute;
+  width:18%;
+  left: 82.5%;
+
+
+}
+
+.col-12 {
+  position:absolute;
+  width:9%;
+  left: 91.65%;
+
+
+}
